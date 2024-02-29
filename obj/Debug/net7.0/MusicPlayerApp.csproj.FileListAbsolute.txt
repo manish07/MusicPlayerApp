@@ -1,0 +1,15 @@
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/bin/Debug/net7.0/MusicPlayerApp
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/bin/Debug/net7.0/MusicPlayerApp.deps.json
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/bin/Debug/net7.0/MusicPlayerApp.runtimeconfig.json
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/bin/Debug/net7.0/MusicPlayerApp.dll
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/bin/Debug/net7.0/MusicPlayerApp.pdb
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.csproj.AssemblyReference.cache
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.AssemblyInfoInputs.cache
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.AssemblyInfo.cs
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.csproj.CoreCompileInputs.cache
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.dll
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/refint/MusicPlayerApp.dll
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.pdb
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/MusicPlayerApp.genruntimeconfig.cache
+/Users/manishkumar/Downloads/MK1/WebApp/MusicPlayerApp/obj/Debug/net7.0/ref/MusicPlayerApp.dll
